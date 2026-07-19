@@ -1,0 +1,22 @@
+# Secrets and local configuration
+web/config.php
+.env
+
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arduino and editors
+.vscode/
+*.tmp
+*.bak
+
+# Operating systems
+.DS_Store
+Thumbs.db
+packages/
